@@ -61,6 +61,11 @@ h2 {
 h3 {
   font-family: "Satoshi 900";
   font-size: 2rem;
+  -webkit-linear-gradient(
+    90.98deg,
+    rgba(24, 185, 207, 0.9) -2.14%,
+    #6688ff 103.54%
+  )
 }
 
 h4 {
@@ -466,6 +471,11 @@ main {
   align-items: center;
   gap: 3.5rem;
   padding-bottom: 10rem;
+  -webkit-linear-gradient(
+    90.98deg,
+    rgba(24, 185, 207, 0.9) -2.14%,
+    #6688ff 103.54%
+  )
 }
 
 .projects {
@@ -487,6 +497,11 @@ main {
 h3 {
   margin: 0;
   text-transform: uppercase;
+  -webkit-linear-gradient(
+    90.98deg,
+    rgba(24, 185, 207, 0.9) -2.14%,
+    #6688ff 103.54%
+  )
 }
 
 .project-main-info p > a {
@@ -719,6 +734,16 @@ footer span {
   .featured-projects-box {
     flex-flow: row wrap;
     justify-content: space-evenly;
+    -webkit-linear-gradient(
+    90.98deg,
+    rgba(24, 185, 207, 0.9) -2.14%,
+    #6688ff 103.54%
+    -webkit-linear-gradient(
+    90.98deg,
+    rgba(24, 185, 207, 0.9) -2.14%,
+    #6688ff 103.54%
+  )
+  )
   }
 
   .other-projects-box .separator::after {
